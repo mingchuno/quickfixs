@@ -1,5 +1,7 @@
 package com.bostontechnologies.quickfixs.messages
 
+import scala.language.implicitConversions
+
 import quickfix.Message
 
 trait RichMessages {
